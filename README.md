@@ -6,5 +6,5 @@
 - 🖥 Spring Boot
 - 🧊 Wechat Mini Program
 - 🎸 Guitar
-- 📷 Vlog[Bilibili: ClownQiang](https://space.bilibili.com/5925839)
+- 📷 Vlog: [Bilibili: ClownQiang](https://space.bilibili.com/5925839)
 - 🐈
